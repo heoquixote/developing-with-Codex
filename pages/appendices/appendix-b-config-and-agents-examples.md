@@ -1,6 +1,17 @@
-# 부록 B. config.toml / AGENTS.md 예시 모음
+# Appendix B. config.toml / AGENTS.md 예시 모음
 
-이 부록은 개인 설정과 프로젝트 규칙을 어떻게 분리하면 좋은지 보여주는 실전 예시를 제공합니다.
+이 Appendix는 개인 설정과 프로젝트 규칙을 어떻게 분리하면 좋은지 보여주는 실전 예시를 제공합니다.
+
+## 목차
+
+- 1. `config.toml` 예시
+- 2. 저장소 루트 `AGENTS.md` 예시
+- 목적
+- 공통 규칙
+- 코드 스타일
+- 리뷰 기준
+- 3. 디렉터리별 `AGENTS.md` 예시
+- 4. 분리 원칙
 
 ## 1. `config.toml` 예시
 

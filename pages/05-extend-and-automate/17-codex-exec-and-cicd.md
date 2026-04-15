@@ -1,6 +1,14 @@
-# codex exec와 CI/CD 자동화
+# 5-1. codex exec와 CI/CD 자동화
 
 Codex를 대화형 도구로만 쓰면 생산성은 올라가지만, 반복 작업은 여전히 사람의 손을 탑니다. `codex exec` 같은 비대화형 실행 방식이 중요한 이유는, 자주 반복되는 검토와 정리 작업을 스크립트와 파이프라인으로 이동시킬 수 있기 때문입니다.
+
+## 목차
+
+- non-interactive mode 이해하기
+- 스크립트에서 Codex 호출하기
+- GitHub Actions에 연결하기
+- 반복 작업을 자동화 파이프라인으로 바꾸기
+- 정리
 
 ## non-interactive mode 이해하기
 
