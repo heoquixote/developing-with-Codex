@@ -1,5 +1,3 @@
-# 5-1. codex exec와 CI/CD 자동화
-
 ## 목차
 
 1. non-interactive mode 이해하기

@@ -1,5 +1,3 @@
-# 5-4. API에서 Codex 모델 직접 사용하기
-
 ## 목차
 
 1. Responses API로 Codex 모델 호출하기

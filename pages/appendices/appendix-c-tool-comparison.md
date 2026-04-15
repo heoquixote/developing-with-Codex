@@ -1,5 +1,3 @@
-# Appendix C. CLI / IDE / App / Cloud 기능 비교표
-
 이 비교표는 어떤 작업을 어디에서 실행하는 것이 자연스러운지 빠르게 판단하기 위한 요약 자료입니다.
 
 | 구분 | CLI | IDE | App | Cloud |

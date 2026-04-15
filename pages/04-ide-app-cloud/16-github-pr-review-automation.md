@@ -1,5 +1,3 @@
-# 4-4. GitHub PR 리뷰 자동화
-
 ## 목차
 
 1. @codex review 사용법

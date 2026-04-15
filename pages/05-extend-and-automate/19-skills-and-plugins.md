@@ -1,5 +1,3 @@
-# 5-3. Skills와 Plugins로 워크플로 패키징하기
-
 ## 목차
 
 1. SKILL.md 설계 원칙
